@@ -1,0 +1,62 @@
+[
+  {
+    "filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+    "sha256": "3d6d93e35eda41de38e25914d1cc1440f2d98429432a2140f3b888883c9e7997",
+    "bytes": 14257,
+    "index_status": "approved",
+    "namespace": "hr",
+    "status": "parsed",
+    "blocks": 75,
+    "table_rows": 29
+  },
+  {
+    "filename": "RPT-OPS-2026-09_Monthly_IT_Operations_Report_September_2026.docx",
+    "sha256": "4f315be892d5597edd0e6d6bbf5d24e5f4e8511b9c0fea37919ffe5d35a0fdc6",
+    "bytes": 15019,
+    "index_status": "approved",
+    "namespace": "operations",
+    "status": "parsed",
+    "blocks": 59,
+    "table_rows": 38
+  },
+  {
+    "filename": "SOP-OPS-001_Incident_Management_and_Escalation.pdf",
+    "sha256": "d88c2c5a8a07ad61aae69616cb8a9565babe32bf06e0f098051e6105ae7c702c",
+    "bytes": 11546,
+    "index_status": "approved",
+    "namespace": "operations",
+    "status": "parsed",
+    "blocks": 128,
+    "table_rows": 32
+  },
+  {
+    "filename": "SOP-OPS-005_Database_Backup_and_Restore.pdf",
+    "sha256": "e71812052c4273dae2b73fc54d76b287e0e34fab392a7af979ddbc58cb584571",
+    "bytes": 11067,
+    "index_status": "approved",
+    "namespace": "operations",
+    "status": "parsed",
+    "blocks": 128,
+    "table_rows": 36
+  },
+  {
+    "filename": "SwiftPay_Employee_Training_Records.xls",
+    "sha256": "d2b90abfbafb3b6664a57ca12849c97285f19a3b2e1d0f493fa02925055bb870",
+    "bytes": 14848,
+    "index_status": "approved",
+    "namespace": "hr",
+    "status": "parsed",
+    "blocks": 24,
+    "table_rows": 24
+  },
+  {
+    "filename": "SwiftPay_Service_Catalogue_and_Ownership.xlsx",
+    "sha256": "62b9fc8728b6ca19923b6030b09d8f9cb92a5a6e914819db7a110ec740fee37f",
+    "bytes": 13871,
+    "index_status": "approved",
+    "namespace": "operations",
+    "status": "parsed",
+    "blocks": 28,
+    "table_rows": 28
+  }
+]

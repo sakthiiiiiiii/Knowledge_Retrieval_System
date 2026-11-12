@@ -1,0 +1,257 @@
+[
+  {
+    "question": "How many leaves is the employee entitled to?",
+    "namespace": "hr",
+    "answer": "- Leave type: Annual leave | Days per year: 20 working days | Key rules: Apply at least 7 days in advance for 3 or more days. [C1] Up to 10 unused days carry forward to the next year. [C1]\n\n- Leave type: Sick leave | Days per year: 10 working days | Key rules: Inform your manager before 10:00 on the first day. [C2] A doctor's note is required for more than 3 consecutive days. [C2] Does not carry forward. [C2]\n\n- Leave type: Casual leave | Days per year: 6 working days | Key rules: For short personal needs. [C3] At most 2 days at a time. [C3] Does not carry forward. [C3]\n\n- Leave type: Maternity leave | Days per year: 26 weeks | Key rules: As provided by law. [C4] Apply at least 8 weeks before the expected date. [C4]\n\n- Leave type: Paternity leave | Days per year: 10 working days | Key rules: To be taken within 3 months of the child's birth or adoption. [C5]\n\n- Leave type: Bereavement leave | Days per year: 3 working days | Key rules: On the death of an immediate family member. [C6]\n\n- This policy applies to all permanent employees of SwiftPay in India. [C7] Contractors and interns follow the terms in their contracts. [C7]\n\n- The leave year runs from 1 April to 31 March. [C8] Leave is credited on 1 April for the full year; employees who join during the year receive leave in proportion to the months remaining. [C8]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 2",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "8192b0f6-dfa9-d4f4-47d7-b9b32c9e83c0",
+        "version": 1,
+        "excerpt": "Leave type: Annual leave | Days per year: 20 working days | Key rules: Apply at least 7 days in advance for 3 or more days. Up to 10 unused days carry forward to the next year."
+      },
+      {
+        "citation": "C2",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 3",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "b9167b31-4f29-bd13-69cb-6564d454427d",
+        "version": 1,
+        "excerpt": "Leave type: Sick leave | Days per year: 10 working days | Key rules: Inform your manager before 10:00 on the first day. A doctor's note is required for more than 3 consecutive days. Does not carry forward."
+      },
+      {
+        "citation": "C3",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 4",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "8c2ac6a4-2592-dfe7-c97f-cd97a63f4999",
+        "version": 1,
+        "excerpt": "Leave type: Casual leave | Days per year: 6 working days | Key rules: For short personal needs. At most 2 days at a time. Does not carry forward."
+      },
+      {
+        "citation": "C4",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 5",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "b84e43f6-5a3e-be7d-6b97-4f740dc07bac",
+        "version": 1,
+        "excerpt": "Leave type: Maternity leave | Days per year: 26 weeks | Key rules: As provided by law. Apply at least 8 weeks before the expected date."
+      },
+      {
+        "citation": "C5",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 6",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "5202ec02-7e15-9828-8fb9-4228ca1fa0d4",
+        "version": 1,
+        "excerpt": "Leave type: Paternity leave | Days per year: 10 working days | Key rules: To be taken within 3 months of the child's birth or adoption."
+      },
+      {
+        "citation": "C6",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 7",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "8386186d-dcd0-4c95-3f72-e03b35d4c466",
+        "version": 1,
+        "excerpt": "Leave type: Bereavement leave | Days per year: 3 working days | Key rules: On the death of an immediate family member."
+      },
+      {
+        "citation": "C7",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 7 \u2013 paragraph 8",
+        "heading": "3. Scope",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "66b3f9fd-ac3a-0557-f386-18e6cd04fe5d",
+        "version": 1,
+        "excerpt": "3. Scope This policy applies to all permanent employees of SwiftPay in India. Contractors and interns follow the terms in their contracts."
+      },
+      {
+        "citation": "C8",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 10 \u2013 paragraph 11",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "d57eb307-f559-bf57-1055-b6c918133280",
+        "version": 1,
+        "excerpt": "4.1 Leave entitlement The leave year runs from 1 April to 31 March. Leave is credited on 1 April for the full year; employees who join during the year receive leave in proportion to the months remaining."
+      }
+    ],
+    "cached": false,
+    "latency_ms": 5.56,
+    "answer_mode": "source_excerpts"
+  },
+  {
+    "question": "Where is Bangalore?",
+    "namespace": "hr",
+    "answer": "Not found in the documents available to you.",
+    "status": "no_evidence",
+    "sources": [],
+    "cached": false,
+    "latency_ms": 0.08
+  },
+  {
+    "question": "How many sick leave days are permanent employees entitled to?",
+    "namespace": "hr",
+    "answer": "- Leave type: Sick leave | Days per year: 10 working days | Key rules: Inform your manager before 10:00 on the first day. [C1] A doctor's note is required for more than 3 consecutive days. [C1] Does not carry forward. [C1]\n\n- This policy applies to all permanent employees of SwiftPay in India. [C7] Contractors and interns follow the terms in their contracts. [C7]\n\n- The leave year runs from 1 April to 31 March. [C8] Leave is credited on 1 April for the full year; employees who join during the year receive leave in proportion to the months remaining. [C8]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 2 row 3",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "b9167b31-4f29-bd13-69cb-6564d454427d",
+        "version": 1,
+        "excerpt": "Leave type: Sick leave | Days per year: 10 working days | Key rules: Inform your manager before 10:00 on the first day. A doctor's note is required for more than 3 consecutive days. Does not carry forward."
+      },
+      {
+        "citation": "C7",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 7 \u2013 paragraph 8",
+        "heading": "3. Scope",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "66b3f9fd-ac3a-0557-f386-18e6cd04fe5d",
+        "version": 1,
+        "excerpt": "3. Scope This policy applies to all permanent employees of SwiftPay in India. Contractors and interns follow the terms in their contracts."
+      },
+      {
+        "citation": "C8",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 10 \u2013 paragraph 11",
+        "heading": "4.1 Leave entitlement",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "d57eb307-f559-bf57-1055-b6c918133280",
+        "version": 1,
+        "excerpt": "4.1 Leave entitlement The leave year runs from 1 April to 31 March. Leave is credited on 1 April for the full year; employees who join during the year receive leave in proportion to the months remaining."
+      }
+    ],
+    "cached": false,
+    "latency_ms": 3.99,
+    "answer_mode": "source_excerpts"
+  },
+  {
+    "question": "What is the Bangalore hotel limit and above-limit approval?",
+    "namespace": "hr",
+    "answer": "- Stays above the limit need written approval from your department head before booking. [C1]\n\n- City: Bengaluru | Hotel limit per night (INR): 4,000 [C2]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 28",
+        "heading": "5.2 Hotel limits per night",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "bd158ee7-971b-1d34-ad8b-47611d75469e",
+        "version": 1,
+        "excerpt": "Stays above the limit need written approval from your department head before booking."
+      },
+      {
+        "citation": "C2",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "table 3 row 4",
+        "heading": "5.2 Hotel limits per night",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "ddef52ec-3a15-d296-713e-7d5258aec199",
+        "version": 1,
+        "excerpt": "City: Bengaluru | Hotel limit per night (INR): 4,000"
+      }
+    ],
+    "cached": false,
+    "latency_ms": 1.66,
+    "answer_mode": "source_excerpts"
+  },
+  {
+    "question": "What is the Payments database RPO in the backup SOP?",
+    "namespace": "operations",
+    "answer": "- Database: Payments | Full backup: Daily at 01:00 | Log backup: Every 15 minutes | Retention: 35 days | RPO: 15 minutes | RTO: 1 hour [C1]\n\n- Database: Merchant | Full backup: Daily at 02:00 | Log backup: Every hour | Retention: 35 days | RPO: 1 hour | RTO: 4 hours [C2]\n\n- Database: Analytics | Full backup: Weekly, Sunday 03:00 | Log backup: None | Retention: 12 weeks | RPO: 7 days | RTO: 24 hours [C3]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "SOP-OPS-005_Database_Backup_and_Restore.pdf",
+        "locator": "page 2 table 3 row 2",
+        "heading": "7.1 Backup schedule",
+        "document_id": "a449fc4f-0133-4178-89df-c6d9658ff64a",
+        "chunk_id": "6f8a57dc-352a-30e3-70db-5abaf4d18159",
+        "version": 1,
+        "excerpt": "Database: Payments | Full backup: Daily at 01:00 | Log backup: Every 15 minutes | Retention: 35 days | RPO: 15 minutes | RTO: 1 hour"
+      },
+      {
+        "citation": "C2",
+        "source_filename": "SOP-OPS-005_Database_Backup_and_Restore.pdf",
+        "locator": "page 2 table 3 row 4",
+        "heading": "7.1 Backup schedule",
+        "document_id": "a449fc4f-0133-4178-89df-c6d9658ff64a",
+        "chunk_id": "6ebecde4-6e8c-ae1b-d9b6-0981f92cc176",
+        "version": 1,
+        "excerpt": "Database: Merchant | Full backup: Daily at 02:00 | Log backup: Every hour | Retention: 35 days | RPO: 1 hour | RTO: 4 hours"
+      },
+      {
+        "citation": "C3",
+        "source_filename": "SOP-OPS-005_Database_Backup_and_Restore.pdf",
+        "locator": "page 2 table 3 row 5",
+        "heading": "7.1 Backup schedule",
+        "document_id": "a449fc4f-0133-4178-89df-c6d9658ff64a",
+        "chunk_id": "3bb13e74-b766-db3d-055a-672113e847b4",
+        "version": 1,
+        "excerpt": "Database: Analytics | Full backup: Weekly, Sunday 03:00 | Log backup: None | Retention: 12 weeks | RPO: 7 days | RTO: 24 hours"
+      }
+    ],
+    "cached": false,
+    "latency_ms": 3.84,
+    "answer_mode": "source_excerpts"
+  },
+  {
+    "question": "What is the Tier 0 RPO in the service catalogue?",
+    "namespace": "operations",
+    "answer": "- Tier: Tier 0 | Meaning: Critical: customers cannot pay or log in if it fails | Availability target: 99.95% | Recovery time (RTO): 30 minutes | Data loss limit (RPO): 5 minutes | Default incident severity if down: P1 [C1]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "SwiftPay_Service_Catalogue_and_Ownership.xlsx",
+        "locator": "sheet Tiers row 2",
+        "heading": "Sheet Tiers",
+        "document_id": "6796c6b3-095a-4caa-b8f1-01b8b7aa2d48",
+        "chunk_id": "1c72cb59-bcd3-d0eb-e403-ec6cb7c8d226",
+        "version": 1,
+        "excerpt": "Tier: Tier 0 | Meaning: Critical: customers cannot pay or log in if it fails | Availability target: 99.95% | Recovery time (RTO): 30 minutes | Data loss limit (RPO): 5 minutes | Default incident severity if down: P1"
+      }
+    ],
+    "cached": false,
+    "latency_ms": 2.92,
+    "answer_mode": "source_excerpts"
+  },
+  {
+    "question": "How many days can employees work from home?",
+    "namespace": "hr",
+    "answer": "- Employees may work from home up to 2 days a week with their manager's approval. [C1] On-call engineers may work from home during their on-call week. [C1] Work from home is not leave and is not recorded as leave. [C1]",
+    "status": "source_excerpts",
+    "sources": [
+      {
+        "citation": "C1",
+        "source_filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+        "locator": "paragraph 17 \u2013 paragraph 18",
+        "heading": "4.3 Work from home",
+        "document_id": "42b0b293-0d49-4f9c-9c71-cc07a0250f9a",
+        "chunk_id": "5039f26a-c0ca-5f54-4592-a218bd34983c",
+        "version": 1,
+        "excerpt": "4.3 Work from home Employees may work from home up to 2 days a week with their manager's approval. On-call engineers may work from home during their on-call week. Work from home is not leave and is not recorded as leave."
+      }
+    ],
+    "cached": false,
+    "latency_ms": 1.98,
+    "answer_mode": "source_excerpts"
+  }
+]

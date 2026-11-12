@@ -1,0 +1,8 @@
+BASELINE BEFORE HTML CLEANUP
+Command: python -m pytest -ra
+Result: 40 passed, 6 warnings in 31.14s
+No failures or skipped tests.
+Warnings: Starlette TestClient anyio BlockingPortal alias deprecation (1); PyMuPDF SWIG type metadata deprecations (5).
+
+CURRENT DATASET CLEANUP
+Full pytest rerun was unavailable because pytest is not installed in the refreshed environment. Dataset cleanup validated with archive integrity, unchanged-file SHA-256 checks, configuration/manifest/source agreement, JSONL parsing, and Python compilation. No runtime application code was changed.

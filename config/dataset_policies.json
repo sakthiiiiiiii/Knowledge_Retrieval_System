@@ -1,0 +1,62 @@
+{
+  "SOP-OPS-001_Incident_Management_and_Escalation.pdf": {
+    "id": "D01",
+    "namespace": "operations",
+    "scope": [
+      "internal"
+    ],
+    "classification": "internal",
+    "source_group": "D01"
+  },
+  "SOP-OPS-005_Database_Backup_and_Restore.pdf": {
+    "id": "D02",
+    "namespace": "operations",
+    "scope": [
+      "internal"
+    ],
+    "classification": "internal",
+    "source_group": "D02"
+  },
+  "POL-HR-010_Leave_Travel_and_Expense_Policy.docx": {
+    "id": "D03",
+    "namespace": "hr",
+    "scope": [
+      "internal"
+    ],
+    "classification": "internal",
+    "source_group": "D03"
+  },
+  "RPT-OPS-2026-09_Monthly_IT_Operations_Report_September_2026.docx": {
+    "id": "D04",
+    "namespace": "operations",
+    "scope": [
+      "group:ops-report"
+    ],
+    "classification": "confidential",
+    "source_group": "D04",
+    "appendix_b_scope": [
+      "group:oncall"
+    ],
+    "appendix_b_classification": "restricted"
+  },
+  "SwiftPay_Service_Catalogue_and_Ownership.xlsx": {
+    "id": "D05",
+    "namespace": "operations",
+    "scope": [
+      "internal"
+    ],
+    "classification": "internal",
+    "source_group": "D05"
+  },
+  "SwiftPay_Employee_Training_Records.xls": {
+    "id": "D06",
+    "namespace": "hr",
+    "scope": [
+      "group:hr",
+      "group:ld"
+    ],
+    "classification": "restricted-personal",
+    "source_group": "D06",
+    "employee_row_scopes": true
+  }
+}

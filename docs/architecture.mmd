@@ -1,0 +1,14 @@
+flowchart TD
+    UI["Streamlit knowledge desk"] --> API["FastAPI and verified identity"]
+    SRC["Six relevant originals"] --> PARSE["Parse with source locations"]
+    PARSE --> POLICY["Classify and apply scopes"]
+    POLICY --> INDEX["Approved chunks and index"]
+    API --> SEARCH["Permission-filtered retrieval"]
+    INDEX --> SEARCH
+    SEARCH --> MODE{"Generation configured?"}
+    MODE -->|Groq enabled| GROQ["Grounded JSON and citation checks"]
+    MODE -->|Local mode| EXCERPT["Cited source excerpts"]
+    GROQ -->|Provider or citation failure| EXCERPT
+    GROQ --> ANSWER["Labelled answer and source passages"]
+    EXCERPT --> ANSWER
+    SEARCH -->|No evidence| NONE["Clear abstention"]

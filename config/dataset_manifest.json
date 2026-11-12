@@ -1,0 +1,54 @@
+{
+  "source_count": 6,
+  "source": "User-supplied Dataset(1).zip",
+  "files": [
+    {
+      "source_id": "D03",
+      "filename": "POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+      "sha256": "3d6d93e35eda41de38e25914d1cc1440f2d98429432a2140f3b888883c9e7997",
+      "size_bytes": 14257,
+      "namespace": "hr",
+      "index_status": "approved"
+    },
+    {
+      "source_id": "D04",
+      "filename": "RPT-OPS-2026-09_Monthly_IT_Operations_Report_September_2026.docx",
+      "sha256": "4f315be892d5597edd0e6d6bbf5d24e5f4e8511b9c0fea37919ffe5d35a0fdc6",
+      "size_bytes": 15019,
+      "namespace": "operations",
+      "index_status": "approved"
+    },
+    {
+      "source_id": "D01",
+      "filename": "SOP-OPS-001_Incident_Management_and_Escalation.pdf",
+      "sha256": "d88c2c5a8a07ad61aae69616cb8a9565babe32bf06e0f098051e6105ae7c702c",
+      "size_bytes": 11546,
+      "namespace": "operations",
+      "index_status": "approved"
+    },
+    {
+      "source_id": "D02",
+      "filename": "SOP-OPS-005_Database_Backup_and_Restore.pdf",
+      "sha256": "e71812052c4273dae2b73fc54d76b287e0e34fab392a7af979ddbc58cb584571",
+      "size_bytes": 11067,
+      "namespace": "operations",
+      "index_status": "approved"
+    },
+    {
+      "source_id": "D06",
+      "filename": "SwiftPay_Employee_Training_Records.xls",
+      "sha256": "d2b90abfbafb3b6664a57ca12849c97285f19a3b2e1d0f493fa02925055bb870",
+      "size_bytes": 14848,
+      "namespace": "hr",
+      "index_status": "approved"
+    },
+    {
+      "source_id": "D05",
+      "filename": "SwiftPay_Service_Catalogue_and_Ownership.xlsx",
+      "sha256": "62b9fc8728b6ca19923b6030b09d8f9cb92a5a6e914819db7a110ec740fee37f",
+      "size_bytes": 13871,
+      "namespace": "operations",
+      "index_status": "approved"
+    }
+  ]
+}

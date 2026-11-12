@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "checks": [
+    "Desktop empty state loaded with document readiness, source list and example questions.",
+    "Pending request disables the composer and exposes a loading message.",
+    "Leave question returns the real policy rows and eight inspectable source passages.",
+    "Out-of-document geography question returns clear abstention without an API error.",
+    "Operations backup question returns the Payments PDF table row with RPO 15 minutes.",
+    "Knowledge-area switch clears history and shows a distinct empty-source state.",
+    "Invalid session displays an actionable authentication error.",
+    "Keyboard navigation moves focus from the labelled composer.",
+    "Computed beige background and global scrollbar theme match the design; no desktop horizontal overflow.",
+    "390px mobile layout has no horizontal overflow and retains the composer."
+  ],
+  "javascript_errors": []
+}

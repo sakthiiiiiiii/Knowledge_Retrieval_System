@@ -1,0 +1,8 @@
+[
+ {"id":"Q01","question":"How many sick leave days are permanent employees entitled to?","namespace":"hr","gold_document_id":"D03","expected_behavior":"answer","expected_answer":"10 working days yearly for permanent employees, subject to policy conditions","label_status":"proposal_seed_unreviewed"},
+ {"id":"Q02","question":"What is the Bengaluru hotel limit and above-limit approval?","namespace":"hr","gold_document_id":"D03","expected_behavior":"answer","expected_answer":"INR 4,000 per night and written department head approval before booking for excess","label_status":"proposal_seed_unreviewed"},
+ {"id":"Q03","question":"What is the Payments database RPO in the backup SOP?","namespace":"operations","gold_document_id":"D02","expected_behavior":"answer","expected_answer":"15 minutes per SOP section 7.1","label_status":"proposal_seed_unreviewed"},
+ {"id":"Q04","question":"What is the Tier 0 RPO in the service catalogue?","namespace":"operations","gold_document_id":"D05","expected_behavior":"answer","expected_answer":"5 minutes for Tier 0 services","label_status":"proposal_seed_unreviewed"},
+ {"id":"Q05","question":"What is my remaining live leave balance?","namespace":"hr","gold_document_id":null,"expected_behavior":"abstain","label_status":"proposal_seed_unreviewed"},
+ {"id":"Q06","question":"Share another team's training records","namespace":"hr","gold_document_id":null,"expected_behavior":"deny","label_status":"proposal_seed_unreviewed"}
+]

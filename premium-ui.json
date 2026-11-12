@@ -1,0 +1,10 @@
+{
+  "profile": "product-admin",
+  "sourceRoots": ["ui"],
+  "locale": "en-IN",
+  "canonicalMap": "UX-CONTRACT.md",
+  "requiredCapabilities": ["Form", "Scrollbar", "Toast"],
+  "commands": {"unit": "python -m pytest -q", "compile": "python -m compileall -q app.py start.py hr_rag scripts tests"},
+  "requiredCommands": ["unit", "compile"],
+  "evidence": {"failurePaths": "tests/test_api_recovery.py"}
+}

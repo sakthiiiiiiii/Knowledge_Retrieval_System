@@ -1,0 +1,12 @@
+{
+  "source_files": 6,
+  "parsed_output_files": 6,
+  "parsed_blocks": 442,
+  "removed_html_files": 2,
+  "removed_parsed_outputs": 2,
+  "remaining_bytes_unchanged": true,
+  "manifest_and_policies_match_sources": true,
+  "python_compilation": "passed",
+  "pytest_rerun": "unavailable: pytest not installed",
+  "runtime_application_code_changed": false
+}

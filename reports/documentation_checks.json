@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-06",
+  "scope": "Documentation only: project overview, component walkthrough and model/application run instructions.",
+  "guides": [
+    "README.md",
+    "docs/README.md",
+    "docs/RUN_GUIDE.md"
+  ],
+  "checks": {
+    "relative_links_and_heading_anchors": "passed (15 links)",
+    "markdown_fences": "balanced in all three guides",
+    "environment_example_keys": "all documented dotenv keys exist in .env.example",
+    "command_file_targets": "all referenced launcher, parser and requirements files exist",
+    "commands_and_mode_descriptions": "reviewed against start.py, config.py, bootstrap.py and requirements files",
+    "application_code": "all 33 Python files byte-identical to previous archive",
+    "source_and_parsed_data": "all 12 original/export files byte-identical to previous archive"
+  },
+  "runtime_tests": "Not rerun; documentation-only update. Instructions were checked against implementation, not executed on a Windows machine or live Groq account.",
+  "links": [
+    {
+      "from": "README.md",
+      "to": "#run-locally-on-windows"
+    },
+    {
+      "from": "README.md",
+      "to": "#run-the-groq-language-model"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/RUN_GUIDE.md"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/README.md"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/README.md#dataset-and-access-rules"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/README.md"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/RUN_GUIDE.md#optional-dense-retrieval-with-qdrant"
+    },
+    {
+      "from": "README.md",
+      "to": "docs/RUN_GUIDE.md#troubleshooting-in-order"
+    },
+    {
+      "from": "README.md",
+      "to": "reports/VALIDATION_SUMMARY.md"
+    },
+    {
+      "from": "docs/README.md",
+      "to": "../README.md"
+    },
+    {
+      "from": "docs/README.md",
+      "to": "RUN_GUIDE.md"
+    },
+    {
+      "from": "docs/README.md",
+      "to": "../reports/VALIDATION_SUMMARY.md"
+    },
+    {
+      "from": "docs/RUN_GUIDE.md",
+      "to": "../README.md"
+    },
+    {
+      "from": "docs/RUN_GUIDE.md",
+      "to": "README.md"
+    },
+    {
+      "from": "docs/RUN_GUIDE.md",
+      "to": "../reports/VALIDATION_SUMMARY.md"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+SWIFTPAY KNOWLEDGE DESK — REPAIRED PROJECT
+
+1. Extract into a NEW folder. Stop the earlier API and Streamlit terminals.
+2. Open PowerShell in Enterprise_HR_RAG_Full_Project (where start.py is).
+3. Run:
+
+   py -3.12 -m venv .venv
+   .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+   .\.venv\Scripts\python.exe start.py
+
+Use py -3.11 if that is your installed Python version.
+Open http://localhost:8501. Keep the terminal open.
+
+The 6 relevant HR and operations files are included and parsed. Approved documents
+are indexed automatically. No Docker or API key is needed for local excerpts.
+
+For Groq-generated answers, edit the generated .env:
+GROQ_API_KEY=your_actual_key
+ENABLE_EXTERNAL_LLM=true
+Then restart. Do not put the Groq key in the UI Session token field.
+
+Try: How many leaves is the employee entitled to?
+Where is Bangalore? correctly returns an out-of-document message.
+
+Read README.md for model options, dataset access and troubleshooting.

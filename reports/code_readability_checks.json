@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-06",
+  "scope": "Python readability only; application behavior and dataset unchanged from the six-source cleanup release.",
+  "python_files_checked": 33,
+  "checks": {
+    "ast_equivalence": "passed for all 33 files; combined import statements normalized without reordering; all expressions, values and control flow preserved",
+    "python_compile": "passed for all 33 files",
+    "black_format": "passed with Black 25.1.0, line length 88",
+    "semicolon_statement_cleanup": "passed; no semicolon-separated Python statements remain",
+    "dataset_preservation": "passed; all six source files and six JSONL outputs are byte-identical to the input release",
+    "parsed_jsonl": "passed; 442 blocks, including 187 table rows",
+    "unwanted_html_sources": "absent"
+  },
+  "runtime_tests": "Not rerun for this formatting-and-comments-only change. Earlier runtime and browser results remain historical baseline evidence, not a new run.",
+  "live_groq": "Not tested; no real provider credential supplied.",
+  "python_files": [
+    "app.py",
+    "hr_rag/__init__.py",
+    "hr_rag/api.py",
+    "hr_rag/bootstrap.py",
+    "hr_rag/cache.py",
+    "hr_rag/chunking.py",
+    "hr_rag/config.py",
+    "hr_rag/embeddings.py",
+    "hr_rag/engine.py",
+    "hr_rag/generation.py",
+    "hr_rag/ingestion.py",
+    "hr_rag/lexical.py",
+    "hr_rag/models.py",
+    "hr_rag/parse.py",
+    "hr_rag/policy.py",
+    "hr_rag/registry.py",
+    "hr_rag/security.py",
+    "hr_rag/vectors.py",
+    "scripts/benchmark_cache.py",
+    "scripts/compare_chunking.py",
+    "scripts/compare_embeddings.py",
+    "scripts/evaluate.py",
+    "scripts/import_zip.py",
+    "scripts/inspect_dataset.py",
+    "scripts/parse_dataset.py",
+    "scripts/score_answers.py",
+    "start.py",
+    "tests/test_api_recovery.py",
+    "tests/test_engine_lifecycle.py",
+    "tests/test_parsers.py",
+    "tests/test_qdrant_optional.py",
+    "tests/test_security.py",
+    "tests/test_ui_contract.py"
+  ],
+  "preserved_data": [
+    {
+      "path": "data/parsed/POL-HR-010_Leave_Travel_and_Expense_Policy.docx.jsonl",
+      "sha256": "8acacabd871dc3c64713273f8c5c04304153249e87232682204c4791a6235e0c"
+    },
+    {
+      "path": "data/parsed/RPT-OPS-2026-09_Monthly_IT_Operations_Report_September_2026.docx.jsonl",
+      "sha256": "d27a37b04394bd1e9554828286064e7150b35f597572374c5f0d2d2756b425b2"
+    },
+    {
+      "path": "data/parsed/SOP-OPS-001_Incident_Management_and_Escalation.pdf.jsonl",
+      "sha256": "ca4136da050c0e0a18120fc5f72d669a2a1be0699f72f1c3c31990bec7196b6c"
+    },
+    {
+      "path": "data/parsed/SOP-OPS-005_Database_Backup_and_Restore.pdf.jsonl",
+      "sha256": "21f1fea704b82ee978f4797930bf2fd7931a3fff60a503565dd9ff7bf5497282"
+    },
+    {
+      "path": "data/parsed/SwiftPay_Employee_Training_Records.xls.jsonl",
+      "sha256": "91f68af0aca1f146a75ebaee7ff364a58ea457b3d9480c307866db449839558d"
+    },
+    {
+      "path": "data/parsed/SwiftPay_Service_Catalogue_and_Ownership.xlsx.jsonl",
+      "sha256": "dc6d59362737c1bc40d483db4c9c480ae67de2ad7a1d52b7edc0e71305a16c11"
+    },
+    {
+      "path": "data/source/POL-HR-010_Leave_Travel_and_Expense_Policy.docx",
+      "sha256": "3d6d93e35eda41de38e25914d1cc1440f2d98429432a2140f3b888883c9e7997"
+    },
+    {
+      "path": "data/source/RPT-OPS-2026-09_Monthly_IT_Operations_Report_September_2026.docx",
+      "sha256": "4f315be892d5597edd0e6d6bbf5d24e5f4e8511b9c0fea37919ffe5d35a0fdc6"
+    },
+    {
+      "path": "data/source/SOP-OPS-001_Incident_Management_and_Escalation.pdf",
+      "sha256": "d88c2c5a8a07ad61aae69616cb8a9565babe32bf06e0f098051e6105ae7c702c"
+    },
+    {
+      "path": "data/source/SOP-OPS-005_Database_Backup_and_Restore.pdf",
+      "sha256": "e71812052c4273dae2b73fc54d76b287e0e34fab392a7af979ddbc58cb584571"
+    },
+    {
+      "path": "data/source/SwiftPay_Employee_Training_Records.xls",
+      "sha256": "d2b90abfbafb3b6664a57ca12849c97285f19a3b2e1d0f493fa02925055bb870"
+    },
+    {
+      "path": "data/source/SwiftPay_Service_Catalogue_and_Ownership.xlsx",
+      "sha256": "62b9fc8728b6ca19923b6030b09d8f9cb92a5a6e914819db7a110ec740fee37f"
+    }
+  ]
+}

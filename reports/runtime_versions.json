@@ -1,0 +1,17 @@
+{
+  "python": "3.12.14",
+  "platform": "Linux",
+  "packages": {
+    "fastapi": "0.115.12",
+    "streamlit": "1.49.1",
+    "groq": "0.32.0",
+    "PyMuPDF": "1.25.5",
+    "python-docx": "1.2.0",
+    "openpyxl": "3.1.5",
+    "xlrd": "2.0.2",
+    "numpy": "2.2.5",
+    "qdrant-client": "1.16.2",
+    "pytest": "8.3.5",
+    "httpx": "0.28.1"
+  }
+}

@@ -1,0 +1,19 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+venv1/
+venv 1/
+data/source/*
+data/parsed/*
+data/documents/*
+data/state/*
+*.sqlite3
+reports/live_*.json
+reports/embedding_comparison.json
